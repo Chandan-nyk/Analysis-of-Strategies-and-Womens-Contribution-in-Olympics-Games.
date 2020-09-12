@@ -1,4 +1,4 @@
-# Analysis-of-Women-s-contribution-in-120-years-Olympics-history-Games.
+# Analysis-of-Women-s-contribution-in--Olympics-history-Games.
 The first Olympics was held in Athens in 1896 after that 28 summer Olympics and 23 winter Olympics held. 
 In this report, I will explain an exploratory analysis of Women's contribution in the 120 years history of Olympics data dating from 1896 to 2016 collected from the Kaggle website.
 The main aim of the analysis is to find the hidden information or pattern in the data. Since the Olympics have evolved over the years,the question will include subjects like the participation and performance of athletes, different nations, and different sports and events.
@@ -21,6 +21,11 @@ The main aim of the analysis is to find the hidden information or pattern in the
 5. Ideal Body Mass Index for layer for their respective Sports.
 6. Ideal Age for Winning Medal
 7. Analysis of Sports wise BMI
+
+
+# Data Set
+I have uploaded the Zip File of the Data Set.
+
 
 
 
